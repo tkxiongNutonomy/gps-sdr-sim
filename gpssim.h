@@ -21,7 +21,7 @@
 #endif
 
 /*! \brief Maximum duration for static mode*/
-#define STATIC_MAX_DURATION (86400) // second
+#define STATIC_MAX_DURATION (31556926) // second
 
 /*! \brief Number of subframes */
 #define N_SBF (5) // 5 subframes per frame
