@@ -46,4 +46,4 @@ nbproject/*
 # Last used USER_MOTION_SIZE variable
 .user-motion-size
 
-docker/build/*
+build
